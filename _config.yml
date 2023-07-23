@@ -127,7 +127,7 @@ content:
           Springboot, Mybatis, node.js 및 react 교육 및 교육과정을 활용한 프로젝트 진행
         description: | # this will include new lines to allow paragraphs
           교육 과정 중 습득한 스킬
-          - Java, ES6, Spring Framework, Springboot, node.js, Express framework
+          - Java, ES6, Spring Framework, Springboot, Node.js, Express framework
           - Mybatis, Oracle RDBMS (PL/SQL), MySQL, MongoDB
           - HTML5, CSS3
           교육 과정 중 진행한 프로젝트
@@ -161,6 +161,32 @@ content:
       - title: 컴퓨터그래픽스운용기능사
         caption: 2003.06
         description: 한국산업인력공단
+
+  - title: 스킬
+    layout: list
+    content:
+      - layout: left
+        title: Back-end
+        description:
+          - Java, Springboot(Maven, Gradle), Node.js, C, Python
+          - Spring framework, Express framework
+
+      - title: Front-end
+        description:
+          - React, ES6, Bootstrap
+          - HTML5, CSS3
+
+      - title: Database
+        description:
+          - Oracle, MySQL
+          - MongoDB
+
+      - title: 그외
+        description:
+          - Docker, Docker-compose
+          - nginx, Apache web Server
+          - Apache Tomcat
+          - Jenkins, Gitea(SCM)
 
   - title: 자기소개서
     layout: list
