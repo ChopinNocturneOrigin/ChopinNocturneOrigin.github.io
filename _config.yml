@@ -167,22 +167,22 @@ content:
     content:
       - layout: left
         title: Back-end
-        description:
+        content:
           - Java, Springboot(Maven, Gradle), Node.js, C, Python
           - Spring framework, Express framework
 
       - title: Front-end
-        description:
+        content:
           - React, ES6, Bootstrap
           - HTML5, CSS3
 
       - title: Database
-        description:
+        content:
           - Oracle, MySQL
           - MongoDB
 
       - title: 그외
-        description:
+        content:
           - Docker, Docker-compose
           - nginx, Apache web Server
           - Apache Tomcat
