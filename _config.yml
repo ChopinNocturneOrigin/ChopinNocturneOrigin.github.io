@@ -152,38 +152,40 @@ content:
       - layout: text
         title: 정보보안기사
         caption: 2019.06
-        content: |
+        description: |
           한국인터넷진흥원
 
       - title: 정보처리기사
         caption: 2005.12
-        description: 한국산업인력공단
+        description: |
+          한국산업인력공단
       
       - title: 컴퓨터그래픽스운용기능사
         caption: 2003.06
-        description: 한국산업인력공단
+        description: |
+          한국산업인력공단
 
   - title: 스킬
     layout: list
     content:
       - layout: left
         title: Back-end
-        content: |
+        description: |
           - Java, Springboot(Maven, Gradle), Node.js, C, Python
           - Spring framework, Express framework
 
       - title: Front-end
-        content: |
+        description: |
           - React, ES6, Bootstrap
           - HTML5, CSS3
 
       - title: Database
-        content: |
+        description: |
           - Oracle, MySQL
           - MongoDB
 
       - title: 그외
-        content: |
+        description: |
           - Docker, Docker-compose
           - nginx, Apache web Server
           - Apache Tomcat
