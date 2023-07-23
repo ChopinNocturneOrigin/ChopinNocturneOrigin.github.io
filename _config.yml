@@ -80,7 +80,7 @@ content:
       - layout: left
         title: 이커머스테크
         link: www.ectech.co.kr
-        sub_title: LGCNS 플랫폼운영팀 파견직 대리
+        sub_title: LGCNS 플랫폼운영팀 파견직
         caption: 2018.06 - 2020.10
         quote: >
           월 접속 평균 400만 규모의 Payment Gateway 서비스
@@ -103,7 +103,7 @@ content:
             - CI / 명함 디자인
 
       - title: 사운드플러스
-        sub_title: 홈페이지 제작 대리
+        sub_title: 홈페이지 제작
         caption: 2004.04 - 2005.04
         #quote: >
         description: | # this will include new lines to allow paragraphs
