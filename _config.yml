@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Java & <mark>Springboot</mark> / Nodejs & <mark>React</mark> 기반 Back-end system engineer 입사 희망자 입니다.
 
-  LGCNS <mark>대법원 공공 Payment Gateway</mark>(이하 PG)/ 정부24 PG/ LGCNS PG 서비스 운영을 통한 대규모 시스템 운영 경험이 있으며, 그 외 Linux 환경하에 nginx/Springboot/Orcale server 를  Docker로 구성하여 Jenkins로 배포하고, Apache web server/ PHP/ MySQL를 이용한 홈페이지 제작 및 운영 경험이 있습니다.
+  LGCNS <mark>대법원 공공 Payment Gateway</mark>(이하 PG)/ 정부24 PG/ LGCNS PG 서비스 운영을 통한 대규모 시스템 운영 경험이 있으며, 그 외 Linux 환경하에 nginx/Springboot/Oracle server 를  Docker로 구성하여 Jenkins로 배포하고, Apache web server/ PHP/ MySQL를 이용한 홈페이지 제작 및 운영 경험이 있습니다.
 
   안정된 서비스를 목표로 프로그래밍하는 것을 언제나 고민하고 있습니다.
 
