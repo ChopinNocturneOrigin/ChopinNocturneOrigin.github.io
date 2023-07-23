@@ -100,19 +100,51 @@ content:
             - S/W 트러블 솔루션 제공
             - CI / 명함 디자인
 
-  - title: Education # Title for the section
+      - title: 사운드플러스
+        sub_title: 홈페이지 제작 대리
+        caption: 2004.04 - 2005.04
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+            - 국/내외 회사 홍보 홈페이지 작성
+            - 해외 홍보 업무 (Germany Frankfrurt prolight & sound 2004 국제음향기기전 전시회)
+            - CI / 제품 메뉴얼 제작
+
+      - title: 용산와
+        sub_title: 홈페이지 유지보수 업무
+        caption: 2003.07 - 2004.01
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+            - 컴퓨터 쇼핑몰 유지보수
+
+  - title: 교육 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
+        caption: 2023.03 - 2023.08
+        sub_title: 정부지원 직업훈련 과정
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Springboot, Mybatis, node.js 및 react 교육 및 교육과정을 활용한 프로젝트 진행
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          교육 과정 중 습득한 스킬
+          - Java, ES6, Spring Framework, Springboot, node.js, Express framework
+          - Mybatis, Oracle RDBMS (PL/SQL), MySQL, MongoDB
+          - HTML5, CSS3
+          교육 과정 중 진행한 프로젝트
+          - 휴대폰 온라인 가입 사이트 : 4인 팀 프로젝트
+          - SNS 서비스 : 개인 프로젝트
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
+        caption: 2002.12 - 2003.05
+        sub_title: 정부지원 직업훈련 과정
+        quote: >
+          Windows 2000 Server, ASP, MS-SQL 교육 및 교육과정을 활용한 프로젝트 진행
+        description: | # this will include new lines to allow paragraphs
+          교육 과정 중 습득한 스킬
+          - ASP.net, MS-SQL, HTML, CSS
+          - Photoshop, Illustrator 활용
+          교육 과정 중 진행한 프로젝트
+          - 온라인 Book 쇼핑몰 사이트 : 개인 프로젝트
 
   - title: A Little More About Me
     layout: text
