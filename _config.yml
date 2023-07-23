@@ -152,7 +152,8 @@ content:
       - layout: text
         title: 정보보안기사
         caption: 2019.06
-        content: 한국인터넷진흥원
+        content: |
+          한국인터넷진흥원
 
       - title: 정보처리기사
         caption: 2005.12
@@ -167,22 +168,22 @@ content:
     content:
       - layout: left
         title: Back-end
-        content:
+        content: |
           - Java, Springboot(Maven, Gradle), Node.js, C, Python
           - Spring framework, Express framework
 
       - title: Front-end
-        content:
+        content: |
           - React, ES6, Bootstrap
           - HTML5, CSS3
 
       - title: Database
-        content:
+        content: |
           - Oracle, MySQL
           - MongoDB
 
       - title: 그외
-        content:
+        content: |
           - Docker, Docker-compose
           - nginx, Apache web Server
           - Apache Tomcat
