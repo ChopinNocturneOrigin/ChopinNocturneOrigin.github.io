@@ -94,7 +94,7 @@ content:
             - Deployment : Jenkins 활용
             - 퍼포먼스 관리, 가동률 보고, 월간/분기 보고 등 각종 운영관련 보고
 
-        title: 가우리컴
+      - title: 가우리컴
         sub_title: 실장
         caption: 2008.04 - 2018.04
         #quote: >
