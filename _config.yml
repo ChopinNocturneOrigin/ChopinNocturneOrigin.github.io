@@ -152,7 +152,7 @@ content:
       - layout: text
         title: 정보보안기사
         caption: 2019.06
-        description: 한국인터넷진흥원
+        content: 한국인터넷진흥원
 
       - title: 정보처리기사
         caption: 2005.12
