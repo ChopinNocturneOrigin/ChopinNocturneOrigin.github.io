@@ -122,8 +122,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 자바(Java)기반 풀스택 개발자
-          with react & node.js 과정
+        title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
+        link: github.com/ChopinNocturneOrigin/PhoneFly
         caption: 2023.03 - 2023.08
         sub_title: 이젠 아카데미 신촌 (정부지원 직업훈련 과정)
         quote: >
