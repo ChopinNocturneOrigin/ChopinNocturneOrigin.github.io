@@ -160,7 +160,9 @@ content:
     content:
       - layout: left
         title: 휴대폰 온라인가입 사이트 1차
-        link: https://github.com/ChopinNocturneOrigin/PhoneFly/tree/develop/phonefly
+        link: github.com/ChopinNocturneOrigin/
+          
+          PhoneFly/tree/develop/phonefly
         caption: 2023.05.16 - 06.02
         sub_title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
         quote: >
@@ -187,7 +189,9 @@ content:
           - DBA, Site Logic 설계, 협업준비 (Git 교육 및 협업문서 작성)
 
       - title: 휴대폰 온라인가입 사이트 2차
-        link: https://github.com/ChopinNocturneOrigin/PhoneFly/tree/develop/Phonefly2
+        link: github.com/ChopinNocturneOrigin/
+        
+          PhoneFly/tree/develop/Phonefly2
         caption: 2023.06.28 - 07.11
         sub_title: 자바(Java)기반 풀스택 개발자 with react & node.js 과정
         quote: >
