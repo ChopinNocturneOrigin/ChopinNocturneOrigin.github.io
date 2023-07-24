@@ -118,6 +118,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             - 컴퓨터 쇼핑몰 유지보수
 
+
+
   - title: 교육 # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -150,6 +152,8 @@ content:
       - title: 숭실대학교
         caption: 1992.03 - 1999.02
         description: 화학공학과
+
+
 
   - title: 포트폴리오
     layout: list
@@ -215,6 +219,7 @@ content:
           - <mark>CI/CD</mark> (Gitea를 활용한 로컬 리퍼지토리의 webhook을 사용하여 자동배포 환경 설정)
 
 
+
   - title: 자격증
     layout: list
     content:
@@ -233,6 +238,8 @@ content:
         caption: 2003.06
         description: |
           한국산업인력공단
+
+
 
   - title: 스킬
     layout: list
@@ -260,6 +267,8 @@ content:
           - nginx, Apache web Server
           - Apache Tomcat
           - Jenkins, Gitea(SCM)
+
+
 
   - title: 자기소개서
     layout: list
