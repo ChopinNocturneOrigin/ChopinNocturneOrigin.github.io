@@ -241,8 +241,8 @@ content:
           2002년에 국비지원 교육과정에 참여하여 windows server, MS SQL server, ASP, Photoshop, Illustrator 등의 웹 마스터 교육을 받았습니다. 이와 동시에 개인적으로 APM(Apache web server, PHP, MySQL server) 환경을 설치하여 공부하였습니다. 노력을 통하여 컴퓨터그래픽스운용기능사, 정보처리기사의 자격증을 취득하였습니다. 그리고 당시에 유행하던 Linux 설치에도 관심을 두게 되어 슬랙웨어를 사용하여 kernel을 compile 하여 diskette으로 linux를 부트하거나 최적화하여 설치하였고, Redhat linux 설치도 하였습니다.
 
           Ubuntu 18.04, Oracle Virtual box, Java에 관심을 두게 되어 개인 PC 환경에서 Virtual box에 Ubuntu linux, Apache web server, MySQL server, Nginx, Apache Tomcat, Oracle 11g를 설치하여 활용하였고, Docker 컨테이너를 통하여 Nginx, Tomcat, Oracle를 연동하여 서버 구성을 하였고
-          최근에는 Java, Spring boot, node.js, react를 습득 하였습니다.
-
+          
+          최근에는 국비교육과정을 통하여 Java, Spring boot, node.js, react를 습득 하였습니다.
           추가로 협업프로젝트 진행 중 교육과정에 포함되지 않았지만 필요성을 느껴 git과 github 및 빈센트 드리센(Vincent Driessen)이 제안한 Girflow Workflow branch 전략을 학습하고 팀원 및 학습동기생들에게 전수 하였습니다. 그 외에 마찬가지로 교육과정에 포함되지 않은 Docker-compose, Jenkins, Gitea등의 활용법과 배포에 관하여 학습하고 진행하였습니다.
 
 # Footer
