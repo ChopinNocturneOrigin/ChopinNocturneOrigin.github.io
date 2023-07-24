@@ -158,18 +158,15 @@ content:
       - layout: text
         title: 정보보안기사
         caption: 2019.06
-        description:
-          한국인터넷진흥원
+        description: 한국인터넷진흥원
 
       - title: 정보처리기사
         caption: 2005.12
-        description:
-          한국산업인력공단
+        description: 한국산업인력공단
       
       - title: 컴퓨터그래픽스 운용기능사
         caption: 2003.06
-        description:
-          한국산업인력공단
+        description: 한국산업인력공단
 
   - title: 스킬
     layout: list
