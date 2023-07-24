@@ -242,7 +242,7 @@ content:
         description: |
           - Java, Springboot(Maven, Gradle), Node.js, C, Python
           - Spring framework, Express framework
-          - JSTL
+          - JSTL, Mybatis
 
       - title: Front-end
         description: |
