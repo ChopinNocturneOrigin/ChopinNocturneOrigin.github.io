@@ -335,7 +335,7 @@ content:
 
 
           최근에는 국비교육과정을 통하여 Java, Spring boot, node.js, react를 습득 하였습니다.
-          추가로 협업프로젝트 진행 중 교육과정에 포함되지 않았지만 필요성을 느껴 git과 github 및 빈센트 드리센(Vincent Driessen)이 제안한 Girflow Workflow branch 전략을 학습하고 팀원 및 학습동기생들에게 전수 하였습니다. 그 외에 마찬가지로 교육과정에 포함되지 않은 Docker-compose, Jenkins, Gitea등의 활용법과 배포에 관하여 학습하고 진행하였습니다.
+          추가로 협업프로젝트 진행 중 교육과정에 포함되지 않았지만 필요성을 느껴 git과 github 및 빈센트 드리센(Vincent Driessen)이 제안한 Gitflow Workflow branch 전략을 학습하고 팀원 및 학습동기생들에게 전수 하였습니다. 그 외에 마찬가지로 교육과정에 포함되지 않은 Docker-compose, Jenkins, Gitea등의 활용법과 배포에 관하여 학습하고 진행하였습니다.
 
 # Footer
 footer_show_references: true
