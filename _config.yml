@@ -92,6 +92,7 @@ content:
             - Deployment : Jenkins 활용
             - 퍼포먼스 관리, 가동률 보고, 월간/분기 보고 등 각종 운영관련 보고
 
+
       - title: 가우리컴
         sub_title: 실장
         caption: 2008.04 - 2018.04
@@ -102,6 +103,7 @@ content:
             - S/W 트러블 솔루션 제공
             - CI / 명함 디자인
 
+
       - title: 사운드플러스
         sub_title: 홈페이지 제작
         caption: 2004.04 - 2005.04
@@ -111,12 +113,14 @@ content:
             - 해외 홍보 업무 (Germany Frankfrurt prolight & sound 2004 국제음향기기전 전시회)
             - CI / 제품 메뉴얼 제작
 
+
       - title: 용산와
         sub_title: 홈페이지 유지보수 업무
         caption: 2003.07 - 2004.01
         #quote: >
         description: | # this will include new lines to allow paragraphs
             - 컴퓨터 쇼핑몰 유지보수
+
 
 
 
@@ -138,6 +142,7 @@ content:
           - 휴대폰 온라인 가입 사이트 : 4인 팀 프로젝트
           - SNS 서비스 : 개인 프로젝트
 
+
       - title: 인터넷비즈니스 프로그래밍
         caption: 2002.12 - 2003.05
         sub_title: 경원 직업훈련 학교 (정부지원 직업훈련 과정)
@@ -149,9 +154,12 @@ content:
           - Photoshop, Illustrator 활용
           교육 과정 중 진행한 프로젝트
           - 온라인 Book 쇼핑몰 사이트 : 개인 프로젝트
+
+
       - title: 숭실대학교
         caption: 1992.03 - 1999.02
         description: 화학공학과
+
 
 
 
@@ -188,6 +196,7 @@ content:
           - Front-end 디자인 및 기능 작성
           - DBA, Site Logic 설계, 협업준비 (Git 교육 및 협업문서 작성)
 
+
       - title: 휴대폰 온라인가입 사이트 2차
         link: github.com/ChopinNocturneOrigin/
         
@@ -215,12 +224,14 @@ content:
           ETC
           - Jenkins, Docker-compose, Gitea, Linux (Ubuntu)
 
+
           역할
           - <mark>Project Leader</mark>
           - Front-end/Back-end 사용자/관리자 페이지/기능 작성/디버깅
           - Front-end 디자인 및 기능 작성
           - DBA, Site Logic 설계, <mark>협업준비 (Git 교육 및 협업문서 작성)</mark>
-          - <mark>CI/CD</mark> (Gitea를 활용한 로컬 리퍼지토리의 webhook을 사용하여 자동배포 환경 설정)
+          - <mark>CI/CD</mark> (Gitea를 활용한 local repository 변동에 따른 webhook을 사용하여 자동배포 환경 설정)
+
 
 
 
@@ -237,11 +248,7 @@ content:
         caption: 2005.12
         description: |
           한국산업인력공단
-      
-      - title: 컴퓨터그래픽스 운용기능사
-        caption: 2003.06
-        description: |
-          한국산업인력공단
+
 
 
 
@@ -251,26 +258,27 @@ content:
       - layout: left
         title: Back-end
         description: |
-          - Java, Springboot(Maven, Gradle), Node.js, C, Python
+          - Java, Springboot(Maven, Gradle), Node.js
           - Spring framework, Express framework
           - JSTL, Mybatis
 
+
       - title: Front-end
         description: |
-          - React, ES6, Bootstrap
-          - HTML5, CSS3, JQuery
+          - React, ES6, JQuery
+
 
       - title: Database
         description: |
           - Oracle, MySQL
           - MongoDB
 
+
       - title: 그 외
         description: |
           - Docker, Docker-compose
-          - nginx, Apache web Server
-          - Apache Tomcat
           - Jenkins, Gitea(SCM)
+
 
 
 
@@ -305,12 +313,10 @@ content:
           사운드플러스 재직 중 프랑크푸르트 독일 해외 전시회 출장의 기회가 있어 영국인과 공동 전시회를 업무 수행을 하게 되었습니다. 5박 6일의 짧은 일정이었지만 맡은 바 책임을 다하고 타인의 업무도 신경 쓰는 태도로 종료 후 높은 수행능력에 대한 칭찬을 받았습니다.
 
 
-          편의점 야간 업무 수행 중에도 성실함은 불과 1개월 만에 직급이 올라가는 결과로 보답하였습니다.
-
-
           가우리컴 재직 중에는 창사 초기에 함께 하여 회사의 로고(CI), 명함, 각종 홍보물 제작을 하였고, 기존에 전문적으로 수행하지 않았던 컴퓨터 유지보수, O/S, 프로그램 설치 등의 여러 업무를 빠르게 익히고 다년간 수행 하였습니다.
 
       - title: 논리적 사고방식,
+
           인내, 끈기
         quote: >
           "이른 나이에 PC를 접하여 논리적 사고를 하게 되었고 느린 PC를 통해 인내를 배웠습니다."
