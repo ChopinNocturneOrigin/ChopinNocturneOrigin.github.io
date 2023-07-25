@@ -91,6 +91,7 @@ content:
             - Business continuity Planning(사업연속성계획) 훈련 : 년 1회
             - Deployment : Jenkins 활용
             - 퍼포먼스 관리, 가동률 보고, 월간/분기 보고 등 각종 운영관련 보고
+            - 장애대응 : 월 10 ~ 30회 (외부장애 포함)
 
 
       - title: 가우리컴
@@ -231,6 +232,7 @@ content:
           - Front-end 디자인 및 기능 작성
           - DBA, Site Logic 설계, <mark>협업준비 (Git 교육 및 협업문서 작성)</mark>
           - <mark>CI/CD</mark> (Gitea를 활용한 local repository 변동에 따른 webhook을 사용하여 자동배포 환경 설정)
+          - 1차 진행내용 refactoring
 
 
 
@@ -258,7 +260,7 @@ content:
       - layout: left
         title: Back-end
         description: |
-          - Java, Springboot(Maven, Gradle), Node.js
+          - Java, Springboot (Maven, Gradle), Node.js
           - Spring framework, Express framework
           - JSTL, Mybatis
 
@@ -277,7 +279,7 @@ content:
       - title: 그 외
         description: |
           - Docker, Docker-compose
-          - Jenkins, Gitea(SCM)
+          - Jenkins, Gitea (SCM)
 
 
 
@@ -326,22 +328,24 @@ content:
 
           국민학교, 중학교, 고등학교 시절에는 컴퓨터 동아리 활동으로 이전에 익혔던 BASIC을 활용하였고, 이후 시대발전에 따라 사용하는 PC도 바뀌게 되어 CLI 컴퓨터 관리, 메모리 관리, C 언어 등을 익혔습니다.
 
+
       - quote: >
           "다른 환경에서도 PC 활용에 대한 열정은 바뀌지 않았습니다."
         description:
           대학교는 이전 학창시절 중 PC에 관한 관심으로 비교적 높지 않은 성적과 집안의 사정으로 원하지 않는 학과에 진학하게 되었지만, 재학 중 스터디 그룹을 만들어 학우들에게 C 언어를 가르치고 수치해석을 사용한 졸업논문으로 학과 교수님들로부터 여러 가지 연구제안을 받았습니다.
 
+
       - quote: >
-          "나이가 들어도 식지 않는 열정과 도전"
+          "나이가 멈추지 않는 도전"
         description:
           2002년에 국비지원 교육과정에 참여하여 windows server, MS SQL server, ASP, Photoshop, Illustrator 등의 웹 마스터 교육을 받았습니다. 이와 동시에 개인적으로 APM(Apache web server, PHP, MySQL server) 환경을 설치하여 공부하였습니다. 노력을 통하여 컴퓨터그래픽스운용기능사, 정보처리기사의 자격증을 취득하였습니다. 그리고 당시에 유행하던 Linux 설치에도 관심을 두게 되어 슬랙웨어를 사용하여 kernel을 compile 하여 diskette으로 linux를 부트하거나 최적화하여 설치하였고, Redhat linux 설치도 하였습니다.
 
 
-          Ubuntu 18.04, Oracle Virtual box, Java에 관심을 두게 되어 개인 PC 환경에서 Virtual box에 Ubuntu linux, Apache web server, MySQL server, Nginx, Apache Tomcat, Oracle 11g를 설치하여 활용하였고, Docker 컨테이너를 통하여 Nginx, Tomcat, Oracle를 연동하여 서버 구성을 하였고
+          Linux(Ubuntu) , Oracle Virtual box, Java에 관심을 두게 되어 개인 PC 환경에서 Virtual box에 Ubuntu, nginx, Apache Tomcat, Oracle 11g를 설치하여 활용하였습니다.
 
 
           최근에는 국비교육과정을 통하여 Java, Spring boot, node.js, react를 습득 하였습니다.
-          추가로 협업프로젝트 진행 중 교육과정에 포함되지 않았지만 필요성을 느껴 git과 github 및 빈센트 드리센(Vincent Driessen)이 제안한 Gitflow Workflow branch 전략을 학습하고 팀원 및 학습동기생들에게 전수 하였습니다. 그 외에 마찬가지로 교육과정에 포함되지 않은 Docker-compose, Jenkins, Gitea등의 활용법과 배포에 관하여 학습하고 진행하였습니다.
+          추가로 협업프로젝트 진행 중 교육과정에 포함되지 않았지만 필요성을 느껴 git과 github 및 빈센트 드리센(Vincent Driessen)이 제안한 Gitflow Workflow branch 전략을 학습하고 팀원 및 교육과정 동기생들에게 전수 하였습니다. 그 외에 Docker 컨테이너를 통하여 nginx, Tomcat, Oracle를 연동하여 서버 구성을 하였고, Docker-compose, Jenkins, Gitea등의 활용법과 배포에 관하여 학습하고 적용 하였습니다.
 
 # Footer
 footer_show_references: true
