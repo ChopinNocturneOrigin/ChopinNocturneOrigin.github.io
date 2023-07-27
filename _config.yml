@@ -100,7 +100,7 @@ content:
         #quote: >
         description: | # this will include new lines to allow paragraphs
             - 컴퓨터 조립 / 수리
-            - O/S 및 프로그램 설치
+            - OS 및 프로그램 설치
             - S/W 트러블 솔루션 제공
             - CI / 명함 디자인
 
