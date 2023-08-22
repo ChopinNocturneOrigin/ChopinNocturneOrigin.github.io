@@ -272,8 +272,8 @@ content:
 
       - title: Database
         description: |
-          - Oracle, MySQL
-          - MongoDB
+          - Oracle
+          - MySQL
 
 
       - title: 그 외
